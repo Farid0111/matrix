@@ -114,8 +114,7 @@ const TicketsView = ({ params }) => {
       <div>Vérification en cours...</div>
       <p>
         <br></br>
-        NB: Veuillez noter cette adresse ou faire une capture d'écran pour une
-        consultation ultérieure.
+      
       </p>
     </div>
   );
